@@ -1,0 +1,6 @@
+# The PaySim CSV is about 470 MB. Do not push it to GitHub.
+data/*.csv
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/
